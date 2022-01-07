@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, am Isabirye Taibu. Am a full stack developer with over 3 years of programming experience 👋
 
 <!--
 **taibu/taibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
