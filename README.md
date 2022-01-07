@@ -1,4 +1,6 @@
-### Hi there, am Isabirye Taibu. Am a full stack developer with over 3 years of programming experience 👋
+### Hi there, am Isabirye Taibu. Am a Full stack developer with over two years’ experience of software systems development, testing and integration.
+I have developed APIs, enterprise resource planning applications and e-commerce applications with payment
+gateway integrations for government entities, private and nonprofit organizations in Uganda
 
 <!--
 **taibu/taibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
