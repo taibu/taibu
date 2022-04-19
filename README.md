@@ -1,5 +1,5 @@
 ### Hi there, am Isabirye Taibu. 
-Am a Full stack developer with over two years’ experience of software systems development, testing and integration.
+Am a Full stack developer with over three years’ experience of software systems development, testing and integration.
 I have developed APIs, enterprise resource planning applications and e-commerce applications with payment
 gateway integrations for small,medium and large enterprises in Uganda
 
